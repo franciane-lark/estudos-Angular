@@ -8,7 +8,7 @@
 - Link: https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
 
 # Aprendendo Front-End com 9 Projetos | Projeto Angular: Parte 1
-- Link: https://www.youtube.com/watch?v=dVidU2JUwfI
+- Link: https://www.youtube.com/watch?v=dVidU2JUwfI&list=PLb2HQ45KP0WtR5f32HdvBu1O95nciAgSZ&index=2
 
 # Aprendendo Front-End com 9 Projetos | Projeto Angular: Parte 2
 - Link: https://www.youtube.com/watch?v=9sWKK5M877w&list=PLb2HQ45KP0WtR5f32HdvBu1O95nciAgSZ
