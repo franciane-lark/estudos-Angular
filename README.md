@@ -2,7 +2,8 @@
 - Link https://angular.io/start
 
 # Curso de Angular: Cod3r Cursos 
-- Link: https://www.youtube.com/watch?v=NCrWXZtlc7Q&list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3
+- Link YouTube: https://www.youtube.com/watch?v=NCrWXZtlc7Q&list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3
+- Link Udemy: https://www.udemy.com/course/angular-9-essencial/learn/lecture/18977074?start=15#overview
 
 # Curso de Angular: Loiane Groner
 - Link: https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
